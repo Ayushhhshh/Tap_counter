@@ -22,14 +22,14 @@ void main (){
     // class Human{
       
     //   Human();
-        var c = ayush();
+        var c = hello();
         c.ayu(); 
        
        
 
 }
   
-class ayush{
+class hello{
   void ayu(){
  print("Ayush");
 }
