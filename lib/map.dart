@@ -1,6 +1,6 @@
 import 'dart:io';
 void main (){
-        
+final String name = 'Ayush';
 //Map
 var map_name =  
 {   'Key1':'Value1',
